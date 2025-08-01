@@ -1,0 +1,2 @@
+pixel-font-builder==0.0.37
+loguru==0.7.3
